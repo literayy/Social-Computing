@@ -1,0 +1,5 @@
+cluster_id,name,size,size_pct,main_domain,main_label,avg_text_length,top_keywords
+0,男性用户 (占比26.2%),1571,26.18333333333333,gender,0,155.71164863144494,"im, rt, just, like, life"
+1,品牌用户 (占比16.5%),991,16.516666666666666,gender,2,145.92230070635722,"weather, updates, channel, weather updates, updates weather"
+2,Bot用户 (占比35.8%),2150,35.833333333333336,cresci,1,221.5260465116279,"im, love, like, just, life"
+3,女性用户 (占比21.5%),1288,21.46666666666667,gender,1,116.2360248447205,"love, im, just, like, life"
