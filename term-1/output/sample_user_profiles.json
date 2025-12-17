@@ -1,0 +1,1982 @@
+{
+  "0": {
+    "user_index": 0,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1502026416.0,
+    "screen_name": "0918Bask",
+    "followers": 208,
+    "friends": 332,
+    "statuses": 2177,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "1": {
+    "user_index": 1,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 2492782375.0,
+    "screen_name": "1120Roll",
+    "followers": 330,
+    "friends": 485,
+    "statuses": 2660,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "2": {
+    "user_index": 2,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 293212315.0,
+    "screen_name": "14KBBrown",
+    "followers": 166,
+    "friends": 177,
+    "statuses": 1254,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "3": {
+    "user_index": 3,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 191839658.0,
+    "screen_name": "wadespeters",
+    "followers": 2248,
+    "friends": 981,
+    "statuses": 202968,
+    "personal_influence": "中",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力",
+      "活跃用户"
+    ]
+  },
+  "4": {
+    "user_index": 4,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 3020965143.0,
+    "screen_name": "191a5bd05da04dc",
+    "followers": 21,
+    "friends": 79,
+    "statuses": 82,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "5": {
+    "user_index": 5,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 2157382005.0,
+    "screen_name": "19_Joanne_87",
+    "followers": 641,
+    "friends": 1066,
+    "statuses": 12915,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "6": {
+    "user_index": 6,
+    "cluster": 6.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 1947320929.0,
+    "screen_name": "1Dniallprincess",
+    "followers": 1042,
+    "friends": 2000,
+    "statuses": 13676,
+    "personal_influence": "中",
+    "interests": [
+      "this",
+      "love",
+      "that"
+    ],
+    "tags": [
+      "中等影响力",
+      "活跃用户"
+    ]
+  },
+  "7": {
+    "user_index": 7,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 255846106.0,
+    "screen_name": "1GisellePizarro",
+    "followers": 561,
+    "friends": 118,
+    "statuses": 61294,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "8": {
+    "user_index": 8,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 1733095801.0,
+    "screen_name": "1Nicoleromany",
+    "followers": 337,
+    "friends": 256,
+    "statuses": 4854,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "9": {
+    "user_index": 9,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1336097480.0,
+    "screen_name": "1_DErika",
+    "followers": 421,
+    "friends": 338,
+    "statuses": 2408,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "10": {
+    "user_index": 10,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 380322177.0,
+    "screen_name": "29PurpleDragons",
+    "followers": 335,
+    "friends": 276,
+    "statuses": 24581,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "11": {
+    "user_index": 11,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 32988810.0,
+    "screen_name": "2cdevelopment",
+    "followers": 232,
+    "friends": 225,
+    "statuses": 2132,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "12": {
+    "user_index": 12,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 21959183.0,
+    "screen_name": "2hip4tv",
+    "followers": 1948,
+    "friends": 2096,
+    "statuses": 10354,
+    "personal_influence": "中",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力",
+      "活跃用户"
+    ]
+  },
+  "13": {
+    "user_index": 13,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1553611423.0,
+    "screen_name": "3shaa_",
+    "followers": 271,
+    "friends": 216,
+    "statuses": 18484,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "14": {
+    "user_index": 14,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 348080571.0,
+    "screen_name": "510Daniel",
+    "followers": 16,
+    "friends": 74,
+    "statuses": 88,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "15": {
+    "user_index": 15,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 839690880.0,
+    "screen_name": "51TalkPH",
+    "followers": 1190,
+    "friends": 355,
+    "statuses": 2418,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户",
+      "活跃用户"
+    ]
+  },
+  "16": {
+    "user_index": 16,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 143687056.0,
+    "screen_name": "unionsummer",
+    "followers": 7842,
+    "friends": 7836,
+    "statuses": 10839,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户",
+      "活跃用户"
+    ]
+  },
+  "17": {
+    "user_index": 17,
+    "cluster": 0.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 2291421004.0,
+    "screen_name": "5secondsofujx",
+    "followers": 552,
+    "friends": 787,
+    "statuses": 4774,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "18": {
+    "user_index": 18,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 2337494094.0,
+    "screen_name": "imxgine5sxs",
+    "followers": 223,
+    "friends": 166,
+    "statuses": 36,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "19": {
+    "user_index": 19,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 225241810.0,
+    "screen_name": "777starr",
+    "followers": 303,
+    "friends": 325,
+    "statuses": 9412,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "20": {
+    "user_index": 20,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 375114767.0,
+    "screen_name": "7820blackrose",
+    "followers": 1978,
+    "friends": 197,
+    "statuses": 55052,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户",
+      "活跃用户"
+    ]
+  },
+  "21": {
+    "user_index": 21,
+    "cluster": 4.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 52929021.0,
+    "screen_name": "868RudeBoi",
+    "followers": 1605,
+    "friends": 969,
+    "statuses": 69809,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "中等影响力",
+      "活跃用户"
+    ]
+  },
+  "22": {
+    "user_index": 22,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1657000316.0,
+    "screen_name": "918Susie",
+    "followers": 212,
+    "friends": 150,
+    "statuses": 7207,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "23": {
+    "user_index": 23,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 325967359.0,
+    "screen_name": "9_t_8",
+    "followers": 1206,
+    "friends": 49,
+    "statuses": 16677,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户",
+      "活跃用户"
+    ]
+  },
+  "24": {
+    "user_index": 24,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 585912212.0,
+    "screen_name": "A1_Ade",
+    "followers": 435,
+    "friends": 320,
+    "statuses": 24163,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "25": {
+    "user_index": 25,
+    "cluster": 4.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 2419936286.0,
+    "screen_name": "AA12YT",
+    "followers": 7644,
+    "friends": 359,
+    "statuses": 45750,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "中等影响力",
+      "活跃用户"
+    ]
+  },
+  "26": {
+    "user_index": 26,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 2320414572.0,
+    "screen_name": "theaugustkiddo",
+    "followers": 182,
+    "friends": 117,
+    "statuses": 1203,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "27": {
+    "user_index": 27,
+    "cluster": 4.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 262531823.0,
+    "screen_name": "ABKool",
+    "followers": 9815,
+    "friends": 2190,
+    "statuses": 274989,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "中等影响力",
+      "活跃用户"
+    ]
+  },
+  "28": {
+    "user_index": 28,
+    "cluster": 3.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 226315121.0,
+    "screen_name": "ACastiella",
+    "followers": 349,
+    "friends": 348,
+    "statuses": 11334,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "29": {
+    "user_index": 29,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 492649414.0,
+    "screen_name": "ADN_SUAPT",
+    "followers": 726,
+    "friends": 28,
+    "statuses": 72102,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "30": {
+    "user_index": 30,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 56554591.0,
+    "screen_name": "AJCertified1",
+    "followers": 879,
+    "friends": 667,
+    "statuses": 15525,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "31": {
+    "user_index": 31,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 85193539.0,
+    "screen_name": "AKbirder",
+    "followers": 3205,
+    "friends": 2377,
+    "statuses": 31248,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户",
+      "活跃用户"
+    ]
+  },
+  "32": {
+    "user_index": 32,
+    "cluster": 0.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 166211662.0,
+    "screen_name": "ANDRESOHYES",
+    "followers": 543,
+    "friends": 327,
+    "statuses": 105025,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "33": {
+    "user_index": 33,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 222290847.0,
+    "screen_name": "ARHG66",
+    "followers": 10,
+    "friends": 91,
+    "statuses": 54,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "34": {
+    "user_index": 34,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 2765166293.0,
+    "screen_name": "ASAPTraay",
+    "followers": 90,
+    "friends": 147,
+    "statuses": 371,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "35": {
+    "user_index": 35,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 2497379616.0,
+    "screen_name": "ATankredi",
+    "followers": 223,
+    "friends": 495,
+    "statuses": 2582,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "36": {
+    "user_index": 36,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 69991603.0,
+    "screen_name": "AYODELE7",
+    "followers": 75,
+    "friends": 77,
+    "statuses": 427,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "37": {
+    "user_index": 37,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 357747403.0,
+    "screen_name": "A_AlRuwaieh",
+    "followers": 25,
+    "friends": 28,
+    "statuses": 416,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "38": {
+    "user_index": 38,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 430285181.0,
+    "screen_name": "A_Hamm5",
+    "followers": 661,
+    "friends": 498,
+    "statuses": 34627,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "39": {
+    "user_index": 39,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1141299306.0,
+    "screen_name": "AaaronPogiii",
+    "followers": 832,
+    "friends": 644,
+    "statuses": 25098,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "40": {
+    "user_index": 40,
+    "cluster": 4.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 37407255.0,
+    "screen_name": "Aagan86",
+    "followers": 7785,
+    "friends": 424,
+    "statuses": 283536,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "中等影响力",
+      "活跃用户"
+    ]
+  },
+  "41": {
+    "user_index": 41,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 112295272.0,
+    "screen_name": "Aankhi01",
+    "followers": 697,
+    "friends": 103,
+    "statuses": 13634,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "42": {
+    "user_index": 42,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 208664282.0,
+    "screen_name": "Aashu_Salotra",
+    "followers": 385,
+    "friends": 200,
+    "statuses": 10339,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "43": {
+    "user_index": 43,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 348393966.0,
+    "screen_name": "Abbdulla_",
+    "followers": 385,
+    "friends": 252,
+    "statuses": 19390,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "44": {
+    "user_index": 44,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1245621752.0,
+    "screen_name": "AbijahGupta",
+    "followers": 4910,
+    "friends": 1675,
+    "statuses": 1960,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户",
+      "活跃用户"
+    ]
+  },
+  "45": {
+    "user_index": 45,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 329481796.0,
+    "screen_name": "Abikikime",
+    "followers": 79,
+    "friends": 196,
+    "statuses": 2766,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "46": {
+    "user_index": 46,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 131043638.0,
+    "screen_name": "AboutFactsNet",
+    "followers": 28,
+    "friends": 32,
+    "statuses": 3114,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "47": {
+    "user_index": 47,
+    "cluster": 3.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 150183040.0,
+    "screen_name": "AbramxJosiah",
+    "followers": 249,
+    "friends": 278,
+    "statuses": 4236,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "48": {
+    "user_index": 48,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 91287122.0,
+    "screen_name": "Abuubreezy",
+    "followers": 698,
+    "friends": 600,
+    "statuses": 33298,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "49": {
+    "user_index": 49,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 2244762307.0,
+    "screen_name": "Acy_Canono23",
+    "followers": 173,
+    "friends": 312,
+    "statuses": 378,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "50": {
+    "user_index": 50,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 344457551.0,
+    "screen_name": "Adam_Loko116",
+    "followers": 943,
+    "friends": 750,
+    "statuses": 46272,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "51": {
+    "user_index": 51,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 2360378178.0,
+    "screen_name": "Addie_bo_baddie",
+    "followers": 81,
+    "friends": 77,
+    "statuses": 1043,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "52": {
+    "user_index": 52,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 398467095.0,
+    "screen_name": "AddisonHeddins",
+    "followers": 247,
+    "friends": 177,
+    "statuses": 5194,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "53": {
+    "user_index": 53,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 2400711853.0,
+    "screen_name": "AdityoHassan",
+    "followers": 1651,
+    "friends": 1754,
+    "statuses": 3547,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户",
+      "活跃用户"
+    ]
+  },
+  "54": {
+    "user_index": 54,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 32494880.0,
+    "screen_name": "Adralicious",
+    "followers": 1233,
+    "friends": 1166,
+    "statuses": 6127,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户",
+      "活跃用户"
+    ]
+  },
+  "55": {
+    "user_index": 55,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 2362812823.0,
+    "screen_name": "AdriUmbreon",
+    "followers": 159,
+    "friends": 124,
+    "statuses": 3450,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "56": {
+    "user_index": 56,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 509255384.0,
+    "screen_name": "Adrianaldo_",
+    "followers": 241,
+    "friends": 273,
+    "statuses": 8102,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "57": {
+    "user_index": 57,
+    "cluster": 4.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 86565348.0,
+    "screen_name": "Advcate007",
+    "followers": 1401,
+    "friends": 1335,
+    "statuses": 51961,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "中等影响力",
+      "活跃用户"
+    ]
+  },
+  "58": {
+    "user_index": 58,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 250207934.0,
+    "screen_name": "AfnanAK",
+    "followers": 589,
+    "friends": 396,
+    "statuses": 23261,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "59": {
+    "user_index": 59,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 238040058.0,
+    "screen_name": "AgeeWx",
+    "followers": 358,
+    "friends": 967,
+    "statuses": 14187,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "60": {
+    "user_index": 60,
+    "cluster": 4.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 476876406.0,
+    "screen_name": "AgentSwift47",
+    "followers": 1193,
+    "friends": 351,
+    "statuses": 169053,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "中等影响力",
+      "活跃用户"
+    ]
+  },
+  "61": {
+    "user_index": 61,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 190345460.0,
+    "screen_name": "AggiOSullivan",
+    "followers": 136,
+    "friends": 116,
+    "statuses": 3566,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "62": {
+    "user_index": 62,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1376257824.0,
+    "screen_name": "AgyapasJordan",
+    "followers": 157,
+    "friends": 388,
+    "statuses": 2366,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "63": {
+    "user_index": 63,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 714550385.0,
+    "screen_name": "AhmadWaleed4568",
+    "followers": 120,
+    "friends": 64,
+    "statuses": 639,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "64": {
+    "user_index": 64,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 474152548.0,
+    "screen_name": "AirJordan136",
+    "followers": 1114,
+    "friends": 1292,
+    "statuses": 20291,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户",
+      "活跃用户"
+    ]
+  },
+  "65": {
+    "user_index": 65,
+    "cluster": 4.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 1373517728.0,
+    "screen_name": "AkheemV",
+    "followers": 348,
+    "friends": 389,
+    "statuses": 57768,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "66": {
+    "user_index": 66,
+    "cluster": 3.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 177906959.0,
+    "screen_name": "Akhtarul_Iman",
+    "followers": 93,
+    "friends": 385,
+    "statuses": 844,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "67": {
+    "user_index": 67,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 2248762537.0,
+    "screen_name": "AlZahraaokay",
+    "followers": 235,
+    "friends": 112,
+    "statuses": 7588,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "68": {
+    "user_index": 68,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 462534253.0,
+    "screen_name": "Al_FSU",
+    "followers": 399,
+    "friends": 402,
+    "statuses": 20388,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "69": {
+    "user_index": 69,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 93941188.0,
+    "screen_name": "AlaskaAmy",
+    "followers": 71,
+    "friends": 56,
+    "statuses": 2287,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "70": {
+    "user_index": 70,
+    "cluster": 3.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 22437394.0,
+    "screen_name": "AlbertoDefa",
+    "followers": 763,
+    "friends": 97,
+    "statuses": 42077,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "71": {
+    "user_index": 71,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1195136336.0,
+    "screen_name": "Albertopurple",
+    "followers": 244,
+    "friends": 246,
+    "statuses": 16948,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "72": {
+    "user_index": 72,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 1956659528.0,
+    "screen_name": "Alec_Meadows",
+    "followers": 281,
+    "friends": 421,
+    "statuses": 4655,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "73": {
+    "user_index": 73,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1175224910.0,
+    "screen_name": "AlekhandraKhan",
+    "followers": 2134,
+    "friends": 654,
+    "statuses": 23875,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户",
+      "活跃用户"
+    ]
+  },
+  "74": {
+    "user_index": 74,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 578904059.0,
+    "screen_name": "AleksandrValeev",
+    "followers": 865,
+    "friends": 250,
+    "statuses": 14537,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "75": {
+    "user_index": 75,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 454183646.0,
+    "screen_name": "AlexBevannn",
+    "followers": 400,
+    "friends": 173,
+    "statuses": 8877,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "76": {
+    "user_index": 76,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 318040219.0,
+    "screen_name": "Alex_Senior1",
+    "followers": 625,
+    "friends": 566,
+    "statuses": 5057,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "77": {
+    "user_index": 77,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 558782771.0,
+    "screen_name": "AlexiaRenessa",
+    "followers": 202,
+    "friends": 300,
+    "statuses": 7135,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "78": {
+    "user_index": 78,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1425572605.0,
+    "screen_name": "AlexiaStaine",
+    "followers": 451,
+    "friends": 403,
+    "statuses": 346,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "79": {
+    "user_index": 79,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 103668192.0,
+    "screen_name": "AlexisCarolineH",
+    "followers": 269,
+    "friends": 187,
+    "statuses": 3629,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "80": {
+    "user_index": 80,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 50034798.0,
+    "screen_name": "AliciaLifeChngr",
+    "followers": 553,
+    "friends": 1856,
+    "statuses": 18745,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "81": {
+    "user_index": 81,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 2574200442.0,
+    "screen_name": "Alivnna",
+    "followers": 170,
+    "friends": 143,
+    "statuses": 9240,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "82": {
+    "user_index": 82,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 53114456.0,
+    "screen_name": "Aliyah_Khan1",
+    "followers": 884,
+    "friends": 250,
+    "statuses": 8318,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "83": {
+    "user_index": 83,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1495594020.0,
+    "screen_name": "AllMakEvrything",
+    "followers": 192,
+    "friends": 175,
+    "statuses": 1238,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "84": {
+    "user_index": 84,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1387377110.0,
+    "screen_name": "AllyRamon_",
+    "followers": 254,
+    "friends": 292,
+    "statuses": 2182,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "85": {
+    "user_index": 85,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1892545526.0,
+    "screen_name": "Ally_joanna",
+    "followers": 285,
+    "friends": 205,
+    "statuses": 9156,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "86": {
+    "user_index": 86,
+    "cluster": 7.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 489714722.0,
+    "screen_name": "Almina_AB",
+    "followers": 53,
+    "friends": 272,
+    "statuses": 911,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "87": {
+    "user_index": 87,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 278811330.0,
+    "screen_name": "Alondrasaurus",
+    "followers": 344,
+    "friends": 335,
+    "statuses": 38417,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "88": {
+    "user_index": 88,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 64534012.0,
+    "screen_name": "AlonsoSanchezz",
+    "followers": 701,
+    "friends": 708,
+    "statuses": 13572,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "89": {
+    "user_index": 89,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 138472981.0,
+    "screen_name": "Alps_Sarsis",
+    "followers": 87,
+    "friends": 195,
+    "statuses": 1523,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "90": {
+    "user_index": 90,
+    "cluster": 0.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 1727495887.0,
+    "screen_name": "Alsagermaha",
+    "followers": 142,
+    "friends": 129,
+    "statuses": 2055,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "91": {
+    "user_index": 91,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 440901699.0,
+    "screen_name": "AlvarezCasandra",
+    "followers": 650,
+    "friends": 348,
+    "statuses": 24986,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "92": {
+    "user_index": 92,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 185216671.0,
+    "screen_name": "AlvaroKrus",
+    "followers": 415,
+    "friends": 481,
+    "statuses": 21105,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "93": {
+    "user_index": 93,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 32831822.0,
+    "screen_name": "Alwayscharlie",
+    "followers": 689,
+    "friends": 470,
+    "statuses": 19515,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "94": {
+    "user_index": 94,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 2938551012.0,
+    "screen_name": "Alyssawizard101",
+    "followers": 108,
+    "friends": 155,
+    "statuses": 1000,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "95": {
+    "user_index": 95,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 241347721.0,
+    "screen_name": "AlzadoKnows",
+    "followers": 651,
+    "friends": 744,
+    "statuses": 2310,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "96": {
+    "user_index": 96,
+    "cluster": 2.0,
+    "cluster_labels": [
+      "中等影响力"
+    ],
+    "user_id": 20301520.0,
+    "screen_name": "AmINatTorious",
+    "followers": 220,
+    "friends": 1040,
+    "statuses": 1182,
+    "personal_influence": "低",
+    "interests": [
+      "that",
+      "this",
+      "with"
+    ],
+    "tags": [
+      "中等影响力"
+    ]
+  },
+  "97": {
+    "user_index": 97,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 1191129162.0,
+    "screen_name": "Amal_Reynolds",
+    "followers": 2544,
+    "friends": 262,
+    "statuses": 615,
+    "personal_influence": "中",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户",
+      "活跃用户"
+    ]
+  },
+  "98": {
+    "user_index": 98,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 49709134.0,
+    "screen_name": "AmanChachu",
+    "followers": 631,
+    "friends": 213,
+    "statuses": 21207,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  },
+  "99": {
+    "user_index": 99,
+    "cluster": 1.0,
+    "cluster_labels": [
+      "普通用户"
+    ],
+    "user_id": 58797847.0,
+    "screen_name": "Amanani",
+    "followers": 451,
+    "friends": 268,
+    "statuses": 37989,
+    "personal_influence": "低",
+    "interests": [
+      "其他"
+    ],
+    "tags": [
+      "普通用户"
+    ]
+  }
+}

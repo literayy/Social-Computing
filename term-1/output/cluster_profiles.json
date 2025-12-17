@@ -1,0 +1,154 @@
+{
+  "0": {
+    "cluster_id": 0,
+    "size": 154,
+    "percentage": 4.4329303396660915,
+    "avg_followers": 1001.3116883116883,
+    "avg_friends": 670.461038961039,
+    "avg_statuses": 19491.493506493505,
+    "influence_level": "中等影响力",
+    "topics": [
+      "that",
+      "this",
+      "with",
+      "have",
+      "your"
+    ],
+    "verified_ratio": 0.0,
+    "labels": [
+      "中等影响力"
+    ]
+  },
+  "1": {
+    "cluster_id": 1,
+    "size": 2246,
+    "percentage": 64.6516983304548,
+    "avg_followers": 766.5476402493322,
+    "avg_friends": 502.56945681211045,
+    "avg_statuses": 10364.746215494211,
+    "influence_level": "普通用户",
+    "topics": [
+      "其他"
+    ],
+    "verified_ratio": 0.0,
+    "labels": [
+      "普通用户"
+    ]
+  },
+  "2": {
+    "cluster_id": 2,
+    "size": 701,
+    "percentage": 20.17846862406448,
+    "avg_followers": 1272.2924393723254,
+    "avg_friends": 657.9358059914408,
+    "avg_statuses": 19792.393723252495,
+    "influence_level": "中等影响力",
+    "topics": [
+      "that",
+      "this",
+      "with",
+      "have",
+      "your"
+    ],
+    "verified_ratio": 0.0,
+    "labels": [
+      "中等影响力"
+    ]
+  },
+  "3": {
+    "cluster_id": 3,
+    "size": 172,
+    "percentage": 4.951065054691997,
+    "avg_followers": 1285.0523255813953,
+    "avg_friends": 718.5523255813954,
+    "avg_statuses": 20439.14534883721,
+    "influence_level": "中等影响力",
+    "topics": [
+      "that",
+      "this",
+      "with",
+      "have",
+      "your"
+    ],
+    "verified_ratio": 0.0,
+    "labels": [
+      "中等影响力"
+    ]
+  },
+  "4": {
+    "cluster_id": 4,
+    "size": 141,
+    "percentage": 4.058721934369603,
+    "avg_followers": 4535.758865248227,
+    "avg_friends": 2353.0851063829787,
+    "avg_statuses": 99247.71631205674,
+    "influence_level": "中等影响力",
+    "topics": [
+      "其他"
+    ],
+    "verified_ratio": 0.0,
+    "labels": [
+      "中等影响力"
+    ]
+  },
+  "5": {
+    "cluster_id": 5,
+    "size": 11,
+    "percentage": 0.31663788140472077,
+    "avg_followers": 106295.81818181818,
+    "avg_friends": 1391.5454545454545,
+    "avg_statuses": 53941.454545454544,
+    "influence_level": "高影响力",
+    "topics": [
+      "with",
+      "this",
+      "from",
+      "will",
+      "that"
+    ],
+    "verified_ratio": 1.0,
+    "labels": [
+      "高影响力"
+    ]
+  },
+  "6": {
+    "cluster_id": 6,
+    "size": 10,
+    "percentage": 0.28785261945883706,
+    "avg_followers": 1801.8,
+    "avg_friends": 1400.8,
+    "avg_statuses": 23005.6,
+    "influence_level": "中等影响力",
+    "topics": [
+      "this",
+      "love",
+      "that",
+      "zayn",
+      "with"
+    ],
+    "verified_ratio": 0.0,
+    "labels": [
+      "中等影响力"
+    ]
+  },
+  "7": {
+    "cluster_id": 7,
+    "size": 39,
+    "percentage": 1.1226252158894647,
+    "avg_followers": 627.1025641025641,
+    "avg_friends": 563.025641025641,
+    "avg_statuses": 10887.333333333334,
+    "influence_level": "普通用户",
+    "topics": [
+      "that",
+      "this",
+      "with",
+      "have",
+      "what"
+    ],
+    "verified_ratio": 0.0,
+    "labels": [
+      "普通用户"
+    ]
+  }
+}
